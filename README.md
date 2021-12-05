@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nemanjawebdev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Nemanja
+- 👀 I’m interested in front-end 
+- 🌱 I’m currently at home :)
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me ...
+- 📫 nemanjawebdew@gmail.com
 
 <!---
 nemanjawebdev/nemanjawebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
